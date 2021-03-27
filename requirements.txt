@@ -1,0 +1,4 @@
+binance
+python-binance
+yaml
+pandas
